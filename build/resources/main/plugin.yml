@@ -1,4 +1,4 @@
 name: RealHunger
 version: '1.0.0'
 main: winlyps.realhunger.RealHunger
-api-version: '1.20'
+api-version: '1.16'
