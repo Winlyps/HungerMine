@@ -2,3 +2,4 @@ name: RealHunger
 version: '${version}'
 main: winlyps.realhunger.RealHunger
 api-version: '1.16'
+author: [Winlyps]
